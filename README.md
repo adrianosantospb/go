@@ -120,7 +120,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
 
-* **Deep Learning (Neural Networks)**
+* **Deep Learning (Neural Networks)** [Course Fast.ia](http://course.fast.ai/start.html)
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://karpathy.github.io/neuralnets/)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
 
