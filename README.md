@@ -120,10 +120,11 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
  * Probabilistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
 
-* **Deep Learning (Neural Networks)** [Course Fast.ia](http://course.fast.ai/start.html)
+* **Deep Learning (Neural Networks)** 
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://karpathy.github.io/neuralnets/)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
-
+ * Practical Deep Learning For Coders [Course Fast.ia](http://course.fast.ai/start.html)
+ 
 * **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
